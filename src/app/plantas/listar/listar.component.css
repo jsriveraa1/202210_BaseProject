@@ -1,0 +1,25 @@
+.padding-general{
+  padding: 1% 4% 2% 4%;
+}
+
+.padding-img{
+  padding-top: 1%;
+  /*padding-bottom: 1%;*/
+}
+
+.text-table{
+  font-family: 'Inter', arial;
+}
+
+.titulo{
+  font-family: 'Kaisei Decol', arial;
+}
+
+.pie-pagina{
+  padding-top: 4%;
+}
+
+.margen-hr{
+  margin-top: 0.2%;
+  padding-top: 0;
+}
